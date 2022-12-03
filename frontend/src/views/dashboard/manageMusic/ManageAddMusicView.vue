@@ -1,0 +1,19 @@
+<template>
+  <div class="w-full">
+      <div class="w-3/5 mx-auto">
+          <div class="text-4xl font-semibold text-center m-5 ">
+              ADD
+          </div>
+          <vManageAddMusic />
+          
+      </div>
+  </div>
+</template>
+
+<script setup>
+import vManageAddMusic from '../../../components/manageMusic/vManageAddMusic.vue';
+</script>
+
+<style>
+
+</style>

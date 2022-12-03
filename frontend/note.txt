@@ -1,0 +1,18 @@
+b1: tao lop sevice va store tuong ung voi singer, artist, country
+b2: tao cac file View tuong ung trong views/listmusic
+b3: tạo route tương ứng và sửa link trong route link để có thể vào trang view
+b4: xài lại các cpn trong file components/music
+*** phải thay đổi dữ liệu khi truyền vào cpn (nếu cần)
+*** khi gọi hàm phải chú ý tham số
+
+=>> bữa sau sửa và làm trang admin thêm sửa xóa
+
+
+======================================================================================================================================================
+
+note ngày 26/11
+
+- tạo các artist, country, singer Mangage tương ứng trong thư mục views và components
+- thêm các route tương ứng để sử dụng
+- tạo thêm các hàm tuong ứng để sử dụng trong store
+- chú ý sửa tên hàm và các tham số
